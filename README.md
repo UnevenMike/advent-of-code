@@ -5,3 +5,8 @@
 | 2022  | TypeScript (deno) | 
 |   |   |
 |   |   |
+
+### Typescipt Commands
+```
+> deno run --watch --allow-all a.ts
+```

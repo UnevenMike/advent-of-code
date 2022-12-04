@@ -20,7 +20,5 @@ lines.forEach(entry => {
     }
 });
 
-console.log(calories);
-
 const solution = Math.max(...calories);
 console.log(`Solution: ${solution}`);
