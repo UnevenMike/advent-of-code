@@ -40,6 +40,7 @@ let knots = [{x: 0, y: 0}, {x: 0, y: 0}, {x: 0, y: 0}, {x: 0, y: 0}, {x: 0, y: 0
 const tailLocations = new Set();
 tailLocations.add(`${knots[9].x}:${knots[9].y}`);
 
+drawString(knots);
 
 instructions.forEach(instruction => {
     for(let i = 0; i < instruction.num; i++) {

@@ -1,4 +1,3 @@
-// deno-lint-ignore-file prefer-const
 // Read file
 import { readLines } from 'https://deno.land/std@0.167.0/io/buffer.ts';
 import { logger } from "../../logger/logger.ts";
