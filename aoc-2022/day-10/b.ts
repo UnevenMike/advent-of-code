@@ -1,6 +1,6 @@
 // Read file
 import { readLines } from 'https://deno.land/std@0.167.0/io/buffer.ts';
-import { logger } from "../../logger/logger.ts";
+import { logger } from "../../lib/logger/logger.ts";
 
 const f = await Deno.open('./input.txt');
 const lines: string[] = [];
