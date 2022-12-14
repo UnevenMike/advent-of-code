@@ -82,8 +82,6 @@ function computeStepsToEnd(pos: point, steps: number[][], heights: number[][]) {
     }
 }
 
-
-
 let starts: point[] = []
 let minSteps = height*width;
 
