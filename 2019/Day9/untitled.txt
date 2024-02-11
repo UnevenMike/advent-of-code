@@ -1,0 +1,16 @@
+Treat memory as a dictionary - 
+    Key = Memory Address
+    Value = Large Number (Long may be too short) - Aparently python handles this natively
+        May need to make a large number class to handle this
+        Or inport a large number class bc i don't want to write my own multiply
+
+Read in program to list
+Turn list to dictionary
+
+When reading memory:
+    if not index in mem:
+        mem[index] = 0
+    return mem[index]
+    
+When writing memory:
+    mem[index] = value
