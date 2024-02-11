@@ -1,5 +1,10 @@
 **/input.txt
+**/input*.txt
+
 .vscode/
 **/.venv
 
 2020/inputs/*
+
+2021/**/.vs
+2021/**/Debug

@@ -1,0 +1,1 @@
+let str = "lorem asf;dkjlasdlksd skl;fdj salfkj sl;kfjas lksjf lsadkjf lkfj alskjf sal;kjf slkj lfkj slfkj slkfjd sfk sfjasl kfja"
