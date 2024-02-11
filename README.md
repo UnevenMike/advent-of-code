@@ -1,10 +1,12 @@
 ## Advent of Code Solutions
 
-| Year | Language                |
-| ---- | ----------------------- |
-| 2022 | TypeScript (deno)       |
-| 2023 | Python. Nothing Special |
-|      |                         |
+| Year | Language                   |
+| ---- | -------------------------- |
+| 2020 | Python - Jupyter Notebooks |
+| 2021 |                            |
+| 2022 | TypeScript (deno)          |
+| 2023 | Python. Nothing Special    |
+|      |                            |
 
 ### Typescipt Commands
 
