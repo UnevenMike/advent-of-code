@@ -20,6 +20,14 @@ struct AOC2024: ParsableCommand {
       Day2.runA(input)
     case (2, "b"):
       Day2.runB(input)
+    case (3, "a"):
+      Day3.runA(input)
+    case (3, "b"):
+      Day3.runB(input)
+    case (4, "a"):
+      Day4.runA(input)
+    case (4, "b"):
+      Day4.runB(input)
     default:
       print("Day \(day) part \(part) not implemented")
     }
