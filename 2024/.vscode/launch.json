@@ -3,7 +3,7 @@
     {
       "type": "lldb",
       "request": "launch",
-      "args": ["2", "a"],
+      "args": ["3", "b"],
       "cwd": "${workspaceFolder:2024}",
       "name": "Debug AOC2024",
       "program": "${workspaceFolder:2024}/.build/debug/AOC2024",
